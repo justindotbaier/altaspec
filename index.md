@@ -13,30 +13,31 @@
 ### Standard visual inspections
 <div class="col-container">
   <div class="column">
-    
-* Roof, vents, flashings & trim
-* Gutters and downspouts
-* Skylight, chimney, other roof penetrations
-* Decks, stoops, porches, walkways, railings
-* Eves, soffets, fascia
-* Grading, drainage
-* Basement, foundation, crawlspace
-* Water penetration, foundation movement
+    <ul>
+        <li>Roof, vents, flashings & trim</li>
+        <li>Gutters and downspouts</li>
+        <li>Skylight, chimney, other roof penetrations</li>
+        <li>Decks, stoops, porches, walkways, railings</li>
+        <li>Eves, soffets, fascia</li>
+        <li>Grading, drainage</li>
+        <li>Basement, foundation, crawlspace</li>
+        <li>Water penetration, foundation movement</li>
+    </ul>
 
   </div>
   
   <div class="column">
-
-* Heating / cooling system
-* Interior plumbing, fixtures, faucets
-* Drainage sump pumps with accessible floats
-* Electrical service line and meter box
-* Main disconnect and service amperage
-* Electrical panel breakers and fuses
-* GFCIs and AFCIs
-* Fireplace
-* Insulation and ventilation
-  
+    <ul>
+        <li>Heating / cooling system</li>
+        <li>Interior plumbing, fixtures, faucets</li>
+        <li>Drainage sump pumps with accessible floats</li>
+        <li>Electrical service line and meter box</li>
+        <li>Main disconnect and service amperage</li>
+        <li>Electrical panel breakers and fuses</li>
+        <li>GFCIs and AFCIs</li>
+        <li>Fireplace</li>
+        <li>Insulation and ventilation</li>
+    </ul>
   </div>
 </div>
 ## Contact
