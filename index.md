@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet" />
 <h1>
   <p>AltaSpec</p>
   <p>Real Estate Inspection, LLC</p>
