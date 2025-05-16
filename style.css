@@ -1,0 +1,7 @@
+.markdown-body h1:first-child {
+  display: none;
+}
+
+.markdown-body h1 :last-child {
+  font-size: 1em
+}
