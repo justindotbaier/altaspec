@@ -2,6 +2,6 @@
   display: none;
 }
 
-.markdown-body h1 :last-child {
-  font-size: 1em
+.markdown-body h1 p:last-child {
+  font-size: 1em;
 }
