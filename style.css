@@ -5,3 +5,7 @@
 .markdown-body h1 p:last-child {
   font-size: 1em;
 }
+
+.col-container {
+  display: flex;
+}
