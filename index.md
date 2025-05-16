@@ -22,13 +22,13 @@
         <li>Grading, drainage</li>
         <li>Basement, foundation, crawlspace</li>
         <li>Water penetration, foundation movement</li>
+        <li>Heating / cooling system</li>
     </ul>
 
   </div>
   
   <div class="column">
     <ul>
-        <li>Heating / cooling system</li>
         <li>Interior plumbing, fixtures, faucets</li>
         <li>Drainage sump pumps with accessible floats</li>
         <li>Electrical service line and meter box</li>
